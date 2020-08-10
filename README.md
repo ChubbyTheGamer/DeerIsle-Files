@@ -1,2 +1,2 @@
 # DeerIsle-Files
- Collection of server files for DeerIsle DayZ Map by JohnMcLane
+ Collection Of Server Files for DeerIsle DayZ Map by JohnMcLane
